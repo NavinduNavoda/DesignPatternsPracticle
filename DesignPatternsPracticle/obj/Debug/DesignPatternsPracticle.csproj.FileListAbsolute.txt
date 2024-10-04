@@ -1,0 +1,7 @@
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\bin\Debug\DesignPatternsPracticle.exe.config
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\bin\Debug\DesignPatternsPracticle.exe
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\bin\Debug\DesignPatternsPracticle.pdb
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\obj\Debug\DesignPatternsPracticle.csproj.AssemblyReference.cache
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\obj\Debug\DesignPatternsPracticle.csproj.CoreCompileInputs.cache
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\obj\Debug\DesignPatternsPracticle.exe
+C:\Users\navid\source\repos\DesignPatternsPracticle\DesignPatternsPracticle\obj\Debug\DesignPatternsPracticle.pdb
